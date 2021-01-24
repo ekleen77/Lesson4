@@ -1,5 +1,0 @@
-"c:/users/eric.kleen/Documents/Education/Udacity NanoDegree/Git/udacity-git-course"
-
-https://github.com/ekleen77/Lesson3
-
-git clone https://github.com/ekleen77/Lesson3
